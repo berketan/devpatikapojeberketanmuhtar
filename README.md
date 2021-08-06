@@ -1,0 +1,2 @@
+# devpatikapojeberketanmuhtar
+devpatikaproje
